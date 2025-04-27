@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.main_content{
+    width: 100vw;
+    height: 100vh;
+}
+.left_content{
+    width: 60%;
+    height: 32rem;
+    border: 2px solid black;
+}
+.below{
+    padding-left: 12%;;
+    padding-top: 10%;
+}
+.below1{
+    font-size: 40px;
+}
+.below2{
+    font-size: 20px;
+}
+
+.logo{
+    width: 12rem;
+    margin-left: 11%;
+    margin-top: 4%;
+}
+.anchor{
+    text-decoration: none;
+    color: black;
+    margin-left: 10%;
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 0%;
+    font-weight: bolder;
+    padding: 10px 30px 10px 30px;
+    margin-left: 2rem;
+}
+.middle{
+    width: 100vw;
+    height: 50vh;
+    background-color:rgb(44, 43, 43) ;
+}
+.img{
+    width: 100%;
+    background-color:rgb(44, 43, 43) ;
+    display: flex;
+}
+.card{
+    width:fit-content;
+    background-color:rgb(44, 43, 43) ;
+    margin-left: 10%;
+    border: none;
+}
+.card-img-top{
+    width: 110px;
+   background-color: rgb(44, 43, 43) ;
+   margin-left: 30%;
+}
+h5,.card-text{
+    color: white;
+}
+.card-text{
+    font-size: small;
+}
+.sear{
+    padding-left: 12%;
+    width: fit-content;
+}
+.form{
+    padding: 5% 40% 5% 10%;
+    border-radius: 0%;
+}
+.btn1{
+   display: inline-block;
+   background-color: rgb(255, 119, 0);
+   border: none;
+   border-radius: 0%;
+   padding:  2% 10% 2% 5%;
+   font-size: large;
+   color: white;
+
+}
+h6{
+    font-size: larger;
+}
